@@ -13,6 +13,7 @@ logger = logging.getLogger(__name__)
 
 # Specify the URL to your package here. Sandra
 # This URL must be accessible via pip install
+# code updated on 12Dec
 
 PACKAGE_URL = 'git+https://github.com/sanserg/iotsrc@'
 
